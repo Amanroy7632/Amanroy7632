@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Amanroy7632/Amanroy7632/blob/main/snake.yml" alt="Snake animation" />
+<!-- <img src="https://github.com/Amanroy7632/Amanroy7632/blob/main/snake.yml" alt="Snake animation" /> -->
 
 ###
